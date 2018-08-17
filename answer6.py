@@ -1,6 +1,3 @@
-
-name='Tony Stark'
-salary=1000000
-print("%s %d" %(name,salary))
-
-
+r=int(input())
+a=3.14*r*r
+print(a)
